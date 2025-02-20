@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.container {
+    margin: 0 auto;
+    max-width: 1440px;
+    width: 90%;
+    padding: 10px 0;
+}
